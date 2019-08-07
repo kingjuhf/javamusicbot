@@ -1,5 +1,5 @@
-token=NTkwOTE2ODUyNDgyNTcyMzQ5.XQpMQA.kPMBSju3AiUiQBcSbxIx5W8sAq4
-owner=569841293837074432
-prefix=..
+token=NjA4NjgwOTcyNzc4NDcxNDQ3.XUr2fA.YaLxaKqH_78j6L5Hx2sl9ZIPHKQ
+owner=340233386545250304
+prefix=1
 stayinchannel=true
 songinstatus=true
